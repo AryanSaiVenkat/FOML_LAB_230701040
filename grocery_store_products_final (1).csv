@@ -1,0 +1,101 @@
+Product Name,Category,Price (INR),Description,Brand,Subcategory,Popularity Score
+Apple,Fruits,120,Fresh and juicy apples.,SuperMart,Citrus,37
+Banana,Fruits,50,Ripe and organic bananas.,FreshFarm,Citrus,26
+Mango,Fruits,150,Sweet and tropical mangoes.,SuperMart,Citrus,47
+Orange,Fruits,80,Citrusy and refreshing oranges.,FreshFarm,Melons,20
+Grapes,Fruits,90,Fresh green and black grapes.,FreshFarm,Tropical Fruits,7
+Pineapple,Fruits,100,Tropical and tangy pineapples.,SuperMart,Melons,27
+Watermelon,Fruits,60,Juicy and hydrating watermelon.,FreshFarm,Citrus,32
+Papaya,Fruits,70,Rich in nutrients and sweet.,SuperMart,Stone Fruits,87
+Pomegranate,Fruits,180,Antioxidant-rich pomegranates.,FreshFarm,Tropical Fruits,18
+Kiwi,Fruits,200,Exotic and vitamin-rich kiwis.,SuperMart,Tropical Fruits,47
+Guava,Fruits,60,Rich in fiber and vitamin C.,OrganicCo,Citrus,78
+Strawberry,Fruits,250,Sweet and delicious strawberries.,SuperMart,Melons,91
+Chikoo,Fruits,90,Sweet and soft sapodilla fruit.,FreshFarm,Stone Fruits,48
+Pear,Fruits,110,Crunchy and juicy pears.,PureChoice,Tropical Fruits,100
+Plum,Fruits,130,Sweet and tangy plums.,SuperMart,Berries,70
+Lychee,Fruits,220,Juicy and aromatic lychees.,PureChoice,Melons,64
+Fig,Fruits,300,Nutritious and delicious figs.,PureChoice,Citrus,97
+Mulberry,Fruits,180,Sweet and rich in antioxidants.,DailyNeeds,Melons,44
+Cherry,Fruits,350,Premium quality cherries.,PureChoice,Citrus,98
+Dragon Fruit,Fruits,400,Exotic and nutrient-rich dragon fruit.,OrganicCo,Melons,58
+Tomato,Vegetables,40,Fresh and organic tomatoes.,FreshFarm,Legumes,39
+Potato,Vegetables,30,Versatile and fresh potatoes.,FreshFarm,Leafy Greens,51
+Onion,Vegetables,50,Essential for daily cooking.,DailyNeeds,Cruciferous,22
+Carrot,Vegetables,60,Rich in beta-carotene.,DailyNeeds,Root Vegetables,8
+Spinach,Vegetables,40,Nutritious green leafy vegetable.,OrganicCo,Legumes,19
+Capsicum,Vegetables,80,Colorful and crunchy capsicums.,PureChoice,Root Vegetables,56
+Cabbage,Vegetables,35,Fresh green cabbage.,FreshFarm,Root Vegetables,25
+Cauliflower,Vegetables,60,Florets rich in fiber.,FreshFarm,Alliums,18
+Pumpkin,Vegetables,40,Sweet and nutritious pumpkin.,FreshFarm,Cruciferous,36
+Brinjal,Vegetables,50,Versatile eggplant for curries.,PureChoice,Root Vegetables,15
+Cucumber,Vegetables,45,Cooling and hydrating cucumber.,SuperMart,Cruciferous,37
+Radish,Vegetables,35,Crisp and peppery radish.,FreshFarm,Root Vegetables,91
+Beetroot,Vegetables,50,Rich in iron and fiber.,DailyNeeds,Legumes,32
+Bitter Gourd,Vegetables,60,Great for diabetes control.,DailyNeeds,Root Vegetables,94
+Ladyfinger,Vegetables,55,Slimy yet nutritious vegetable.,FreshFarm,Root Vegetables,10
+French Beans,Vegetables,90,Rich in protein and fiber.,SuperMart,Legumes,34
+Spring Onion,Vegetables,70,Perfect for garnishing dishes.,SuperMart,Alliums,49
+Garlic,Vegetables,120,Flavorsome and medicinal garlic.,OrganicCo,Cruciferous,96
+Ginger,Vegetables,140,Aromatic and medicinal spice.,OrganicCo,Root Vegetables,71
+Mushroom,Vegetables,250,Protein-rich edible fungi.,SuperMart,Alliums,72
+Milk,Dairy,60,Fresh and pure cow milk.,PureChoice,Milk,71
+Curd,Dairy,50,Thick and creamy curd.,DailyNeeds,Milk,80
+Paneer,Dairy,350,Protein-rich fresh paneer.,PureChoice,Yogurt,98
+Butter,Dairy,500,Creamy and rich dairy butter.,OrganicCo,Butter,39
+Cheese,Dairy,400,Delicious and aged cheese.,OrganicCo,Milk,8
+Ghee,Dairy,600,Pure desi ghee for cooking.,FreshFarm,Milk,79
+Lassi,Dairy,40,Sweet and refreshing drink.,OrganicCo,Cream,86
+Milkshake,Dairy,70,Flavored milk-based shake.,PureChoice,Yogurt,82
+Khoa,Dairy,450,Essential for Indian sweets.,PureChoice,Butter,4
+Flavored Yogurt,Dairy,80,Sweet and probiotic-rich yogurt.,DailyNeeds,Cheese,75
+Condensed Milk,Dairy,150,Thick and sweet milk.,SuperMart,Milk,11
+Fresh Cream,Dairy,200,Perfect for desserts and gravies.,FreshFarm,Yogurt,99
+Margarine,Dairy,250,Alternative to butter.,PureChoice,Butter,29
+Ice Cream,Dairy,350,Creamy frozen delight.,FreshFarm,Butter,61
+Milk Powder,Dairy,500,Long-lasting powdered milk.,FreshFarm,Butter,65
+Chhena,Dairy,400,Soft and fresh for sweets.,PureChoice,Cream,35
+Mozzarella Cheese,Dairy,450,Stretchy cheese for pizzas.,DailyNeeds,Butter,87
+Processed Cheese,Dairy,400,Ready-to-use cheese slices.,OrganicCo,Milk,10
+Khoya Barfi,Dairy,600,Delicious Indian sweet.,SuperMart,Butter,84
+Rasmalai,Dairy,700,Sweet and spongy dessert.,OrganicCo,Cheese,48
+Tea,Beverages,250,Aromatic and refreshing tea leaves.,DailyNeeds,Coffee,78
+Coffee,Beverages,400,Rich and strong coffee powder.,FreshFarm,Juices,65
+Green Tea,Beverages,300,Healthy and antioxidant-rich tea.,PureChoice,Energy Drinks,27
+Black Tea,Beverages,220,Classic and flavorful black tea.,PureChoice,Coffee,61
+Soft Drink,Beverages,40,Refreshing carbonated beverage.,DailyNeeds,Tea,63
+Fruit Juice,Beverages,120,Natural and pure fruit juice.,SuperMart,Coffee,36
+Coconut Water,Beverages,50,Hydrating and natural.,PureChoice,Soft Drinks,55
+Soda,Beverages,30,Perfect for mixing drinks.,SuperMart,Energy Drinks,38
+Herbal Tea,Beverages,350,Infused with medicinal herbs.,FreshFarm,Soft Drinks,74
+Milkshake,Beverages,90,Flavored milk-based drink.,DailyNeeds,Soft Drinks,93
+Energy Drink,Beverages,150,Boosts stamina and energy.,SuperMart,Soft Drinks,28
+Protein Shake,Beverages,300,Healthy protein supplement.,FreshFarm,Energy Drinks,14
+Almond Milk,Beverages,450,Dairy-free and nutritious.,DailyNeeds,Energy Drinks,6
+Soy Milk,Beverages,350,Plant-based milk alternative.,DailyNeeds,Energy Drinks,36
+Lemonade,Beverages,70,Refreshing and citrusy drink.,FreshFarm,Juices,2
+Sugarcane Juice,Beverages,80,Natural energy booster.,DailyNeeds,Soft Drinks,84
+Tonic Water,Beverages,150,Classic beverage mixer.,OrganicCo,Soft Drinks,68
+Electrolyte Drink,Beverages,200,Rehydrates and energizes.,PureChoice,Coffee,14
+Buttermilk,Beverages,40,Cooling and probiotic-rich.,DailyNeeds,Coffee,10
+Cold Coffee,Beverages,120,Chilled and refreshing coffee.,FreshFarm,Tea,56
+Chips,Snacks,40,Crispy and salty potato chips.,FreshFarm,Popcorn,98
+Biscuits,Snacks,60,Crunchy and tasty biscuits.,PureChoice,Chocolate,78
+Namkeen,Snacks,80,Spicy and savory snack mix.,SuperMart,Chips,42
+Chocolate,Snacks,100,Sweet and creamy chocolate.,DailyNeeds,Nuts,13
+Popcorn,Snacks,90,Perfect for movie nights.,FreshFarm,Chocolate,24
+Cookies,Snacks,150,Freshly baked and delicious.,OrganicCo,Chocolate,7
+Noodles,Snacks,50,Quick and easy instant noodles.,DailyNeeds,Chocolate,44
+Samosa,Snacks,20,Deep-fried spicy snack.,PureChoice,Popcorn,87
+Pakora,Snacks,30,Crispy and tasty fritters.,FreshFarm,Popcorn,57
+Murukku,Snacks,80,South Indian crispy snack.,DailyNeeds,Nuts,53
+Bhel Puri,Snacks,60,Tangy and spicy snack.,PureChoice,Nuts,64
+Sev,Snacks,50,Crispy and flavorful.,SuperMart,Nuts,36
+Mithai,Snacks,300,Traditional Indian sweets.,SuperMart,Chips,55
+Dhokla,Snacks,70,Soft and spongy Gujarati dish.,SuperMart,Biscuits,66
+Farsan,Snacks,100,Savory and crispy snack.,DailyNeeds,Chocolate,68
+Kachori,Snacks,40,Stuffed and deep-fried snack.,OrganicCo,Chips,42
+Pav Bhaji,Snacks,150,Tasty street food delight.,PureChoice,Chips,46
+Pani Puri,Snacks,50,Crispy puris with tangy water.,FreshFarm,Nuts,17
+Bhujia,Snacks,90,Spicy and crunchy snack.,OrganicCo,Nuts,14
+Khakhra,Snacks,120,Thin and crispy snack.,PureChoice,Chocolate,1
